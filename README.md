@@ -1,4 +1,4 @@
-# Kemok_interview
+# Kemok - Interview
 # First tasks
 Thank you for your interest in Kemok and taking the time to complete this assignment. We believe this excercise will allow you to showcase your skillsets. We also want you to have a better idea about the potential projects you will work on while collaborating with us. 
 
