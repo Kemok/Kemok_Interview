@@ -7,7 +7,7 @@ There are two parts in this excercise. Please complete both. You should push you
 ## Part 1 - Addresses in NYC
 - Use the "Kemok_Addresses.csv" file for this section. You may need to download the file using the "Open this file in GitHub for PC or Mac" 
 - Geocode all addresses (lat/long).
-- Append US census tract code for all addresses.
+- Append the US census tract code for all addresses.
 - For each address, append demographic information (2010 Tract Median Household Income, Tract Population.) You may refer to  http://api.census.gov/data.html and https://geomap.ffiec.gov/FFIECGeocMap/GeocodeMap1.aspx. 
 - For each location, calculate the distance in miles and public transit time to the Empire State building (200 locations.) You may refer to https://developers.google.com/maps/documentation/directions/. 
 
